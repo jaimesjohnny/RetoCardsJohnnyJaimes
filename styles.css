@@ -1,0 +1,70 @@
+body{
+  background-image: url(https://concepto.de/wp-content/uploads/2019/07/galaxia-e1561948092846.jpg);
+  background-size: 100%;
+  font-family: Arial;
+  margin:  0px;
+}
+img{
+  filter: drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.15));
+  padding-top: 20px;
+  padding-bottom: 0px;
+  width: 80px;
+  text-shadow: 3px 4px 10px rgba(0, 0, 0, 0.45);
+}
+.tarjeta{
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+  border: 20px white;
+  box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.75);
+  margin-left: 10px;
+  margin-right: 10px;
+	background-image: linear-gradient(to bottom right, #03082D, #000108);
+  width: 300px;
+  height: 450px;	
+  border-radius: 2%;
+  text-align: center;
+}
+.titulo{
+  position: relative;
+  left: 17%;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.35);
+  border: 20px white;
+  box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.75);
+  margin-left: 10px;
+  margin-right: 10px;
+  background-image: linear-gradient(to bottom right, #03082D, #000108);
+  width: 900px;
+  height: 100px;  
+  border-radius: 2%;
+  text-align: center;  
+}
+ul{
+  margin: 0px;
+}
+li{
+  text-align: left;
+}
+h1{
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.95);
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 5px;
+}
+p{
+  text-align: justify;
+  padding: 20px;
+  margin: 0px;
+}
+h2{
+  position: relative;
+  top: 20px;
+  text-align: center;
+  font-style: black;
+  font-size: 32px;
+}
+table{
+  position: absolute;
+  left: 13.2%;
+}
